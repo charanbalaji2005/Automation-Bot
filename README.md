@@ -1,4 +1,4 @@
-# PimEyes Automation Bot 🤖🔍
+# PimEyes Automation Bot 
 
 A production-grade Telegram bot that accepts face images, searches [PimEyes](https://pimeyes.com) via Playwright browser automation, and returns matching result links — all asynchronously.
 
